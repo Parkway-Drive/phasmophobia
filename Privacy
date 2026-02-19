@@ -1,77 +1,30 @@
-📱 Phasmophobia Companion
+Privacy Policy
 
+App Name: Phasmophobia Companion
 Developer: Leviathan IX
+Last Updated: February 2026
 
-Data Safety Declaration
-1. Does the app collect or share user data?
+Phasmophobia Companion is an unofficial companion app for the game Phasmophobia. It is not affiliated with, endorsed by, or sponsored by Kinetic Games.
 
-Yes. The app collects limited technical and usage data for analytics and performance monitoring purposes.
-The app does not sell user data and does not share data with third parties for advertising or marketing purposes.
+1) What data we collect
 
-2. Types of Data Collected
-App Activity
+We collect limited technical and usage data to help the app run better:
 
-Data Collected:
+App activity (analytics)
 
-App interactions (such as screens viewed and feature usage)
+Examples: screens viewed, buttons tapped, feature usage
 
-Purpose:
+Device and identifiers
 
-Analytics
+Examples: device model, operating system version, anonymous device identifiers
 
-App functionality improvement
+Crash logs (diagnostics)
 
-Shared:
+Examples: crash reports, performance data, diagnostic information
 
-No
+2) What we do not collect
 
-Device or Other Identifiers
-
-Data Collected:
-
-Device model
-
-Operating system version
-
-Anonymous device identifiers
-
-Purpose:
-
-App functionality
-
-Performance monitoring
-
-Analytics
-
-Shared:
-
-No
-
-Crash Logs
-
-Data Collected:
-
-Crash reports
-
-Diagnostic information
-
-Performance data
-
-Purpose:
-
-App stability improvements
-
-Bug fixes
-
-Performance monitoring
-
-Shared:
-
-No
-
-3. Data Not Collected
-
-The app does not collect:
+We do not collect:
 
 Names
 
@@ -89,44 +42,35 @@ Payment information
 
 User account data
 
-The app does not display advertisements and does not use advertising identifiers.
+We do not show ads.
 
-4. Data Usage Purposes
+3) How we use data
 
-Collected data is used strictly for:
+We use the collected data only to:
 
-Maintaining and improving app functionality
+Maintain and improve app functionality
 
-Monitoring app stability and performance
+Monitor stability and performance
 
-Understanding general feature usage trends
+Understand general feature usage trends
 
-Data is not used for advertising or marketing.
+We do not use data for advertising or marketing.
 
-5. Data Encryption
+4) Sharing of data
 
-All data transmitted through Google Play Services and Firebase services is encrypted in transit using industry-standard security protocols.
+We do not sell user data.
 
-6. Data Deletion
+We do not share user data with third parties for advertising or marketing.
 
-Phasmophobia Companion does not require user accounts and does not store personal user data.
+5) Data security
 
-Users may uninstall the app at any time to stop further data collection.
+Data sent through Google Play Services and Firebase is encrypted in transit using standard security protocols.
 
-Public Play Store Data Safety Summary
+6) Data retention and deletion
 
-This app may collect:
+The app does not require accounts and does not store personal user data.
+You can uninstall the app at any time to stop future data collection from your device.
 
-App activity
+7) Contact
 
-Device or other identifiers
-
-Crash logs
-
-Data is:
-
-Encrypted in transit
-
-Not shared with third parties for advertising
-
-Not sold
+If you have questions about this Privacy Policy, contact the developer at: official.leviathan.ix@gmail.com
